@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamburgersct
-- 👀 I’m interested in video games and music.
-- 🌱 I’m currently learning data structure & algorithms.
+- 👀 I’m interested in front-end/full-stack development, video games and music.
+- 🌱 I’m currently learning React.
 - 📫 Reach me by hamburgersct@gmail.com
 
 <!---
