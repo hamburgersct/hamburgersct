@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamburgersct
-- 👀 I’m interested in front-end/full-stack development, video games and music.
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in front-end/web development.
+- 🌱 I’m currently learning React.js and some Swift.
 - 📫 Reach me by hamburgersct@gmail.com
 
 <!---
