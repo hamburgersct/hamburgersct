@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hamburgersct
-- 👀 I’m interested in front-end/web development.
-- 🌱 I’m currently learning React.js and some Swift.
+- 👋 Hi, I’m Sihan He.
+- 👀 I’m interested in front-end/web development
+- 🌱 I’m currently learning React.js
 - 📫 Reach me by hamburgersct@gmail.com
 
 <!---
