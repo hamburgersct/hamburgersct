@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sihan He.
 - 👀 I’m interested in front-end/web development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js/Netx.js
 - 📫 Reach me by hamburgersct@gmail.com
 
 <!---
